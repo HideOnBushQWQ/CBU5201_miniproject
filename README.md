@@ -1,3 +1,3 @@
 # CBU5201_miniproject
 
-## This is the first deployment.
+**The ipynb notbook will show the process dealing with the story classification problem**
